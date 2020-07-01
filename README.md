@@ -1,2 +1,2 @@
 # keiko-corp
-The greatest company ever created
+Performance optimization challenge from udemy course
